@@ -16,7 +16,7 @@ const fotos = [
   { src: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800', alt: 'Portón automático' },
   { src: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800', alt: 'Techo metálico' },
   { src: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800', alt: 'Rejas de seguridad' },
-  { src: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800', alt: 'Galpón metálico' },
+  { src: 'fotos/reja.jpg', alt: 'Galpón metálico' },
   { src: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800', alt: 'Estructura metálica' },
 ];
 
