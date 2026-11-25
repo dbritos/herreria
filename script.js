@@ -12,10 +12,10 @@ navMenu.querySelectorAll('a').forEach(link => {
 // ===== GALERÍA (EDITÁ ACÁ TUS FOTOS) =====
 // Reemplazá las URLs por tus fotos. Podés subirlas a una carpeta /img/ o usar URLs externas.
 const fotos = [
-  { src: 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800', alt: 'Portón de hierro' },
-  { src: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800', alt: 'Portón automático' },
+  { src: 'techo.jpg', alt: 'Portón de hierro' },
+  { src: 'staircase.jpg', alt: 'Portón automático' },
   { src: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800', alt: 'Techo metálico' },
-  { src: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800', alt: 'Rejas de seguridad' },
+  { src: 'reja2.jpg', alt: 'Rejas de seguridad' },
   { src: 'fotos/reja.jpg', alt: 'Galpón metálico' },
   { src: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800', alt: 'Estructura metálica' },
 ];
