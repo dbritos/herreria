@@ -12,8 +12,8 @@ navMenu.querySelectorAll('a').forEach(link => {
 // ===== GALERÍA (EDITÁ ACÁ TUS FOTOS) =====
 // Reemplazá las URLs por tus fotos. Podés subirlas a una carpeta /img/ o usar URLs externas.
 const fotos = [
-  { src: 'techo.jpg', alt: 'Portón de hierro' },
-  { src: 'staircase.jpg', alt: 'Portón automático' },
+  { src: 'fotos/techo.jpg', alt: 'Portón de hierro' },
+  { src: 'fotos/staircase.jpg', alt: 'Portón automático' },
   { src: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800', alt: 'Techo metálico' },
   { src: 'reja2.jpg', alt: 'Rejas de seguridad' },
   { src: 'fotos/reja.jpg', alt: 'Galpón metálico' },
